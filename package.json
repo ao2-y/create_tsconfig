@@ -1,0 +1,14 @@
+{
+  "name": "create_tsconfig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "node create_tsconfig.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "0.0.2"
+  }
+}
